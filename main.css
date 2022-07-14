@@ -5,8 +5,8 @@ body{
 h1{
     font-size: 50px;
     padding: 25 px;
-    border: double 5px rgb(132, 0, 255);
-    color: rgb(132, 0, 255);
+    border: double 5px rgb(255, 0, 0);
+    color: rgb(255, 0, 0);
 }
 p{
     font-size: 25px;
