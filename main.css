@@ -1,14 +1,15 @@
 body{
     margin: 0 auto;
-    background: rgb(218, 9, 9);
+    background: rgb(17, 0, 253);
 }
 h1{
     font-size: 50px;
     padding: 25 px;
-    border: double 5px rgb(188, 29, 228);
+    border: double 5px blueviolet;
+    color: blueviolet;
 }
 p{
     font-size: 25px;
     font-weight: bold;
-    color: rgb(245, 13, 175);
+    color: rgb(253, 0, 177);
 }
